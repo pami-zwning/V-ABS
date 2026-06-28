@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/pami-zwning/V-ABS"><img src="https://img.shields.io/badge/GitHub-V--ABS-blue?logo=github" alt="GitHub"></a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-Paper-red" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2605.10172"><img src="https://img.shields.io/badge/arXiv-Paper-red" alt="arXiv"></a>
   <img src="https://img.shields.io/badge/ICML-2026-green" alt="ICML 2026">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 </p>
